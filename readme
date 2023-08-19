@@ -1,0 +1,42 @@
+CryptimerApp
+Descrição:
+--------------------------------------------------------------------------------------
+CryptimerApp é um simples aplicativo Python que utiliza dados de API's para fornecer informações atualizadas sobre criptomoedas e seus preços de mercado. O aplicativo é projetado para ajudar os usuários a acompanhar o mercado de criptomoedas e 
+tomar decisões informadas de investimento.
+
+Recursos:
+--------------------------------------------------------------------------------------
+Consulta de Criptomoedas: A CryptimerApp permite que os usuários pesquisem informações sobre criptomoedas específicas, como Bitcoin, Ethereum, etc., obtendo dados em tempo real.
+
+Visualização de Preços: Os preços de mercado das criptomoedas são exibidos de forma clara e concisa para facilitar o acompanhamento.
+--------------------------------------------------------------------------------------
+Tecnologias Utilizadas:
+--------------------------------------------------------------------------------------
+Python
+Módulos Python: requests, json
+API CoinCap
+Como Usar:
+--------------------------------------------------------------------------------------
+Clone o Repositório:
+
+--------------------------------------------------------------------------------------
+Copy code
+git clone https://github.com/seuusuario/CryptimerApp.git
+Navegue até o Diretório:
+
+--------------------------------------------------------------------------------------
+Copy code
+cd CryptimerApp
+Execute o Aplicativo:
+
+--------------------------------------------------------------------------------------
+Copy code
+python cryptimer_app.py
+Siga as Instruções no Aplicativo para Pesquisar Criptomoedas e Visualizar Informações.
+--------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+Contribuições são bem-vindas! Sinta-se à vontade! Atenciosamente, Sérgio Mendes.
+BTC: bc1qmgzwdm3q02ku9y2e006f7cr58zcej0y3h7ml9g
+XMR: 481CX6sehZxiXuywbYz7iS323jdBRW96b9KVM9Ja4ddTFLabaAEGwum1RE4Yy1kXT6Ea6z7TFQtn6QG9ZKWbLs859HFgmXW
